@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/milla.wang/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-827da8311a9ba2cf00070b3cebdbf7cb86a76edf.jar" />
+    </item>
+    <item
+        jar="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/pre-dexed/debug/classes-9cd40a8e61f2cbc36ab33c1ee3af4f933f969062.jar" />
+    </item>
+    <item
+        jar="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-32e77889a44e46a073e653fb73ef555150cb62e4.jar" />
+    </item>
+    <item
+        jar="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/milla.wang/AndroidStudioProjects/SlideListViewDemo/app/build/intermediates/pre-dexed/debug/classes-455462ff5b6549551bddef555ef87bb19e90fdb2.jar" />
+    </item>
+
+</items>
